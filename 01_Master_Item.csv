@@ -1,0 +1,9 @@
+﻿Item Code,Item Name,Item Group,Default Unit of Measure,Maintain Stock,Standard Selling Rate,Standard Buying Rate,Description
+FG-MB-001,Meja Belajar Shanti Minimalis,Products,Nos,1,750000,0,Meja belajar kayu dengan rangka besi modern ukuran 100x50x75 cm
+FG-KB-001,Kursi Belajar Shanti Ergonomis,Products,Nos,1,350000,0,Kursi belajar kayu ergonomis dengan bantalan sandaran
+RM-KY-001,Papan Kayu Mahoni 100x50 cm,Raw Material,Nos,1,0,45000,Papan kayu mahoni olahan sudah diserut halus
+RM-BS-001,Pipa Besi Hollow 4x4 cm (6 Meter),Raw Material,Meter,1,0,60000,Pipa besi kotak hollow ketebalan 1.4 mm
+RM-SK-001,Sekrup Kayu 2 Inch (Pack isi 50),Raw Material,Box,1,0,15000,Sekrup galvanis anti karat untuk mebel
+RM-LM-001,Lem Kayu PVAc 500g,Raw Material,Nos,1,0,22000,Lem kayu perekat kuat untuk sambungan
+RM-VR-001,Cat Vernis Polyurethane 1L,Raw Material,Nos,1,0,70000,Cat pelapis finishing kayu tahan gores
+RM-AP-001,Amplas Kayu Grid 120,Raw Material,Nos,1,0,6000,Kertas amplas untuk penghalusan permukaan kayu

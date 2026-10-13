@@ -1,0 +1,4 @@
+﻿Parent Item (Item Jadi),Sequence,Operation Name,Workstation,Operating Time (Minutes),Hourly Cost (IDR),Estimated Operation Cost (IDR)
+FG-MB-001,1,Pemotongan Bahan,Stasiun Pemotongan,30,35000,17500
+FG-MB-001,2,Perakitan Rangka & Daun Meja,Stasiun Perakitan,45,30000,22500
+FG-MB-001,3,Pengamplasan & Pengecatan Vernis,Stasiun Finishing Cat,30,25000,12500

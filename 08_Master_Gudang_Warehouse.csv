@@ -1,0 +1,4 @@
+﻿Warehouse Name,Warehouse Type,Parent Warehouse,Account,Description
+Gudang Bahan Baku,Stores,All Warehouses,Stock In Hand,Gudang penyimpanan material mentah (kayu, besi, lem, cat)
+Gudang Work In Progress,Work In Progress,All Warehouses,Work In Progress,Area lantai pabrik barang setengah jadi dalam proses pengerjaan
+Gudang Barang Jadi,Finished Goods,All Warehouses,Stock In Hand,Gudang penyimpanan produk yang siap dikirim/dijual ke pelanggan
